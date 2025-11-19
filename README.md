@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Masum Billah  
+A passionate **React Developer**, **WordPress Developer**, and **Java Mobile App Developer** who loves building clean, fast, and user-friendly digital experiences.
 
-<!--
-**masumBillah-1/masumBillah-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- ⚛️ **React Developer** – Dynamic UI, reusable components, modern frontend  
+- 🌐 **WordPress Developer** – Custom themes, plugins, full website solutions  
+- 📱 **App Developer – Java-based Android apps (Native Java)**  
+- 🛠️ API development, secure authentication, dashboards  
+- 🎨 UI/UX optimization & performance improvements  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+**Frontend:** React, Next.js, JavaScript (ES6+), Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB, Firebase  
+**Mobile:** Java (Native Android), Android Studio  
+**CMS:** WordPress, WooCommerce  
+**Tools:** Git, GitHub, Postman, Figma, VS Code  
+
+---
+
+## 🔥 Current Focus
+- Building modern full-stack apps  
+- Developing Android apps with Java  
+- Improving WordPress performance & security  
+- Learning advanced React patterns  
+
+---
+
+## 📫 Contact
+- 📧 Email: your-email-here  
+- 🌐 Portfolio: your-portfolio-link  
+- 💬 Open for freelance & collaboration  
+
