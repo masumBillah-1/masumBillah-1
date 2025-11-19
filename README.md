@@ -30,7 +30,6 @@ A passionate **React Developer**, **WordPress Developer**, and **Java Mobile App
 ---
 
 ## 📫 Contact
-- 📧 Email: your-email-here  
-- 🌐 Portfolio: your-portfolio-link  
+- 📧 Email: masumak203@gmail.com  
 - 💬 Open for freelance & collaboration  
 
