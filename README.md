@@ -89,19 +89,12 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 **✨ Key Features:**
 
-| Students | Instructors | Admins |
-|----------|-------------|--------|
-| 🤖 AI Quiz Generator | 🎬 Course Creation | 📊 Analytics Dashboard |
-| 📺 Interactive Videos | 👥 Student Analytics | 💰 Revenue Tracking |
-| 🏆 Gamification | 💳 Earnings & Payouts | 🔐 Full Control |
-| 📜 Auto Certificates | ✅ Auto Grading | 📈 Growth Metrics |
-
-**Core Capabilities:**
-- ⚡ Real-time Chat & Messaging with Socket.io
-- 💬 AI-Powered Q&A Assistant (Gemini)
-- 💳 Secure Payments (Stripe Integration)
-- 📱 Responsive Design (Mobile-First)
-- ☁️ Media Management (Cloudinary)
+| Students | Instructors | Admins | Core Tech |
+|----------|-------------|--------|-----------|
+| 🤖 AI Quiz Generator | 🎬 Course Creation | 📊 Analytics Dashboard | ⚡ Real-time Chat (Socket.io) |
+| 📺 Interactive Videos | 👥 Student Analytics | 💰 Revenue Tracking | 💬 AI Q&A (Gemini) |
+| 🏆 Gamification | 💳 Earnings & Payouts | 🔐 Full Control | 💳 Payments (Stripe) |
+| 📜 Auto Certificates | ✅ Auto Grading | 📈 Growth Metrics | 📱 Mobile-First Design |
 
 <div align="center">
   <a href="https://smartlms-pro.vercel.app/" target="_blank">
