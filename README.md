@@ -107,32 +107,27 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 ---
 
-<h2 align="center">🕌 MADRASHA PRO</h2>
-<h3 align="center" style="color: #FF6B6B;">Enterprise Islamic Education Management Platform</h3>
+### 🕌 Madrasha Pro | Next.js • TypeScript • Neon (PostgreSQL) • Prisma • Offline-First
 
-**⚡ Tech Stack:** Next.js 16 • TypeScript • Neon (PostgreSQL) • Prisma • Offline-First
+> **Enterprise Islamic Education Platform** with offline support, biometric security, multi-tenant support & 8 core institutional modules.
 
-> **Revolutionary enterprise-grade platform** revolutionizing Islamic institutional management with **offline-first architecture**, **biometric security**, **multi-tenant support**, and **8 core institutional modules**. Built for modern madrasas and Islamic schools worldwide.
 
-<img width="100%" height="auto" alt="Madrasha Pro Dashboard" src="https://github.com/user-attachments/assets/380405a1-24d9-41e2-b12d-1085f9ca22df" style="border-radius:15px; box-shadow: 0 8px 16px rgba(255,107,107,0.3); border: 1px solid rgba(255,107,107,0.2);"/>
+<img width="1024" height="442" alt="ezgif-7eadcd70c1a79780" src="https://github.com/user-attachments/assets/380405a1-24d9-41e2-b12d-1085f9ca22df" />
 
-### 🎯 **Core Features**
+
+**✨ Features:**
 
 | 🎓 Students | 👨‍🏫 Teachers | 🛡️ Admins | ⚙️ Core Modules |
-|:---:|:---:|:---:|:---:|
+|----------|----------|--------|---------|
 | 📊 Analytics & Tracking | 🎬 Instant Grading | 📈 Dashboard | 📚 Academic Management |
 | 📚 Progress Reports | 📝 Lesson Entry | 👥 Multi-Tenant | 💰 Financial (Fees/Ledger) |
 | 🏆 Achievement Badges | 💳 Earnings | 💰 Finance Control | 📝 Attendance Tracking |
 | 📜 Certificates | ✅ Auto Grading | 🔍 Analytics | 📦 Inventory & Resources |
 
-### 💎 **Why Madrasha Pro?**
-- 🗄️ **PostgreSQL (Neon) + Prisma ORM** - Type-safe database management
-- 🔌 **Offline-First Architecture** - IndexedDB sync, works anywhere
-- 🔐 **Bank-Level Security** - WebAuthn biometric + JWT encryption
-- 📱 **Multi-Platform** - Web, Desktop (Electron), Progressive Web App
-- 🌍 **Multi-Institution** - Manage unlimited madrasas from one platform
-- ⚡ **Lightning Fast** - Turbopack (5x faster builds)
-- 100% **TypeScript** - Type-safe end-to-end
+**Tech & Highlights:**
+- �️ **PostgreSQL (Neon)** + **Prisma ORM** | 🔌 **Offline-First** (IndexedDB Sync)
+- 🔐 **Bank-Level Security** (WebAuthn + JWT) | 📱 **Multi-Platform** (Web, Desktop, PWA)
+- 🌍 **Multi-Institution** Support | ⚡ **Lightning Fast** (Turbopack 5x) | 100% **TypeScript**
 
 **🔑 Demo Credentials:**
 ```
@@ -146,9 +141,7 @@ ID: MDR-0001  |  Password: 132517ak
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/🔒_Private_Repo-Source_Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📖_Documentation-View_Docs-0277BD?style=for-the-badge" alt="Docs"/>
-  </a>
+  
 </div>
 
 ---
