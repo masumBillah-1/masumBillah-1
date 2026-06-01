@@ -82,7 +82,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 <div align="center">
 <a href="https://smartlms-pro.vercel.app/" target="_blank">
-<img width="100%" alt="smartlmspro-banner" src="https://github.com/user-attachments/assets/8753707f-394b-4017-b92b-cd9a3e48b073" style="border-radius:10px;" />
+  <img width="100%" alt="smartlmspro-banner" src="https://github.com/user-attachments/assets/1bb97243-09c7-44e6-944d-79e2659a7bf5" style="border-radius:10px;" />
 </a>
 </div>
 
