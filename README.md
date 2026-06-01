@@ -128,7 +128,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 #### 🔐 **Advanced Authentication**
 - 👆 **Fingerprint Login** - Biometric access
@@ -137,7 +137,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 - 🚫 **Zero-Friction Security** - Fast & secure
 
 </td>
-<td width="60%">
+<td width="50%">
 
 #### 💎 **Tech Stack & Features**
 - 🗄️ **PostgreSQL (Neon)** + **Prisma**
