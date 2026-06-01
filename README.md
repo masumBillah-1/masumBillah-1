@@ -111,6 +111,10 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 > **Enterprise Islamic Education Platform** with offline support, biometric security, multi-tenant support & 8 core institutional modules.
 
+
+<img width="1024" height="442" alt="ezgif-7eadcd70c1a79780" src="https://github.com/user-attachments/assets/380405a1-24d9-41e2-b12d-1085f9ca22df" />
+
+
 **✨ Features:**
 
 | 🎓 Students | 👨‍🏫 Teachers | 🛡️ Admins | ⚙️ Core Modules |
