@@ -124,16 +124,32 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 | 🏆 Achievement Badges | 💳 Earnings | 💰 Finance Control | 📝 Attendance Tracking |
 | 📜 Certificates | ✅ Auto Grading | 🔍 Analytics | 📦 Inventory & Resources |
 
-### 🔐 **Advanced Authentication System**
-- 👆 **Fingerprint Login** - Biometric authentication for instant access
-- 📱 **QR Code Scan Login** - One-tap login by scanning QR code
-- 🔑 **Multi-Factor Auth** - WebAuthn + JWT + Password fallback
-- 🚫 **Zero-Friction Security** - Fast & secure without friction
+### ⚡ **Key Advantages**
 
-**Tech & Highlights:**
-- 🗄️ **PostgreSQL (Neon)** + **Prisma ORM** | 🔌 **Offline-First** (IndexedDB Sync)
-- 🔐 **Biometric Security** (Fingerprint + QR) | 📱 **Multi-Platform** (Web, Desktop, PWA)
-- 🌍 **Multi-Institution** Support | ⚡ **Lightning Fast** (Turbopack 5x) | 100% **TypeScript**
+<table>
+<tr>
+<td width="50%">
+
+#### 🔐 **Advanced Authentication**
+- 👆 **Fingerprint Login** - Biometric access
+- 📱 **QR Code Scan Login** - One-tap login
+- 🔑 **Multi-Factor Auth** - WebAuthn + JWT
+- 🚫 **Zero-Friction Security** - Fast & secure
+
+</td>
+<td width="50%">
+
+#### 💎 **Tech Stack & Features**
+- 🗄️ **PostgreSQL (Neon)** + **Prisma**
+- 🔌 **Offline-First** (IndexedDB Sync)
+- 📱 **Multi-Platform** (Web, Desktop, PWA)
+- 🌍 **Multi-Institution** Support
+- ⚡ **Turbopack** (5x faster builds)
+- 100% **TypeScript** coverage
+
+</td>
+</tr>
+</table>
 
 **🔑 Demo Credentials:**
 ```
