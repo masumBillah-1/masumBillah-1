@@ -107,7 +107,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 ---
 
-### 🕌 Madrasha Pro | Next.js • TypeScript • MongoDB • Offline-First
+### 🕌 Madrasha Pro | Next.js • TypeScript • Neon (PostgreSQL) • Prisma • Offline-First
 
 > **Enterprise Islamic Education Platform** with offline support, biometric security, multi-tenant support & 8 core institutional modules.
 
@@ -125,9 +125,9 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 | 📜 Certificates | ✅ Auto Grading | 🔍 Analytics | 📦 Inventory & Resources |
 
 **Tech & Highlights:**
-- 🔌 **Offline-First** (IndexedDB Sync) | 🔐 **Bank-Level Security** (WebAuthn + JWT)
-- 📱 **Multi-Platform** (Web, Desktop, PWA) | 🌍 **Multi-Institution** Support
-- ⚡ **Lightning Fast** (Turbopack 5x) | 100% **TypeScript** Coverage
+- �️ **PostgreSQL (Neon)** + **Prisma ORM** | 🔌 **Offline-First** (IndexedDB Sync)
+- 🔐 **Bank-Level Security** (WebAuthn + JWT) | 📱 **Multi-Platform** (Web, Desktop, PWA)
+- 🌍 **Multi-Institution** Support | ⚡ **Lightning Fast** (Turbopack 5x) | 100% **TypeScript**
 
 **🔑 Demo Credentials:**
 ```
