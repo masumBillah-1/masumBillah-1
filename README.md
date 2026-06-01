@@ -80,26 +80,22 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 ### 🎓 SmartLMS-Pro
 **Full-Stack | Next.js, TypeScript & Socket.io**
 
-<table>
-<tr>
-<td width="45%">
+<div align="center">
 <a href="https://smartlms-pro.vercel.app/" target="_blank">
-<img width="951" height="413" alt="smartlmspro-banner" src="https://github.com/user-attachments/assets/8753707f-394b-4017-b92b-cd9a3e48b073" />
+<img width="100%" alt="smartlmspro-banner" src="https://github.com/user-attachments/assets/8753707f-394b-4017-b92b-cd9a3e48b073" style="border-radius:10px;" />
 </a>
-</td>
-<td>
-<ul>
-<li><strong>Description:</strong> A comprehensive Learning Management System designed to "Elevate Skills." Features real-time communication and AI-driven path to mastery.</li>
-<li><strong>Tech Stack:</strong>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-</li>
-<li>🔗 <strong><a href="https://smartlms-pro.vercel.app/">Live Demo</a></strong> | 📂 <strong><a href="https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System">GitHub</a></strong></li>
-</ul>
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
+
+**Description:** A comprehensive Learning Management System designed to "Elevate Skills." Features real-time communication and AI-driven path to mastery.
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+🔗 **[Live Demo](https://smartlms-pro.vercel.app/)** | 📂 **[GitHub](https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System)**
 
 ---
 
