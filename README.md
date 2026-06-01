@@ -77,29 +77,38 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 ## 🌟 Featured Projects
 
-### 🎓 SmartLMS-Pro | AI-Powered Learning Platform
+### 🎓 SmartLMS-Pro | Next.js • TypeScript • MongoDB • Socket.io • Gemini AI
+
+> **Revolutionary AI-Powered Learning Management System** with real-time communication, intelligent quizzes, gamification, and complete course management.
 
 <div align="center">
   <a href="https://smartlms-pro.vercel.app/" target="_blank">
-    <img width="100%" alt="SmartLMS Pro Banner" src="https://github.com/user-attachments/assets/655da668-01ec-47e3-81d7-6ad4c4188314" style="border-radius:10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+    <img width="100%" alt="SmartLMS Pro Banner" src="https://github.com/user-attachments/assets/655da668-01ec-47e3-81d7-6ad4c4188314" style="border-radius:15px; box-shadow: 0 8px 16px rgba(100,200,255,0.3); border: 1px solid rgba(100,200,255,0.2);"/>
   </a>
 </div>
 
-**Next.js • TypeScript • MongoDB • Socket.io • Gemini AI**
+**✨ Key Features:**
 
-Revolutionary Learning Management System with AI-powered quizzes, real-time chat, gamification, and complete course management tools.
+| Students | Instructors | Admins |
+|----------|-------------|--------|
+| 🤖 AI Quiz Generator | 🎬 Course Creation | 📊 Analytics Dashboard |
+| 📺 Interactive Videos | 👥 Student Analytics | 💰 Revenue Tracking |
+| 🏆 Gamification | 💳 Earnings & Payouts | 🔐 Full Control |
+| 📜 Auto Certificates | ✅ Auto Grading | 📈 Growth Metrics |
 
-**✨ Features:**
-- 🤖 AI Quiz Generator | 👨‍🎓 Interactive Learning | 🏆 Gamification & Certificates
-- 📊 Real-time Analytics | 💬 Live Messaging | 💰 Payment Integration (Stripe)
-- 👥 Complete Course Tools | ✅ Automated Grading | 🔐 Admin Dashboard
+**Core Capabilities:**
+- ⚡ Real-time Chat & Messaging with Socket.io
+- 💬 AI-Powered Q&A Assistant (Gemini)
+- 💳 Secure Payments (Stripe Integration)
+- 📱 Responsive Design (Mobile-First)
+- ☁️ Media Management (Cloudinary)
 
 <div align="center">
   <a href="https://smartlms-pro.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-00C7B7?style=for-the-badge" alt="Live Demo"/>
   </a>
   <a href="https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/💻_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </div>
 
