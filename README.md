@@ -107,6 +107,38 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 ---
 
+### 🕌 Madrasha Pro | Next.js • TypeScript • MongoDB • Offline-First
+
+> **Enterprise Islamic Education Platform** with offline support, biometric security, multi-tenant support & 8 core institutional modules.
+
+**✨ Features:**
+
+| 🎓 Students | 👨‍🏫 Teachers | 🛡️ Admins | ⚙️ Core Modules |
+|----------|----------|--------|---------|
+| 📊 Analytics & Tracking | 🎬 Instant Grading | 📈 Dashboard | 📚 Academic Management |
+| 📚 Progress Reports | 📝 Lesson Entry | 👥 Multi-Tenant | 💰 Financial (Fees/Ledger) |
+| 🏆 Achievement Badges | 💳 Earnings | 💰 Finance Control | 📝 Attendance Tracking |
+| 📜 Certificates | ✅ Auto Grading | 🔍 Analytics | 📦 Inventory & Resources |
+
+**Tech & Highlights:**
+- 🔌 **Offline-First** (IndexedDB Sync) | 🔐 **Bank-Level Security** (WebAuthn + JWT)
+- 📱 **Multi-Platform** (Web, Desktop, PWA) | 🌍 **Multi-Institution** Support
+- ⚡ **Lightning Fast** (Turbopack 5x) | 100% **TypeScript** Coverage
+
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-FF9800?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/📖_Documentation-View_Docs-0277BD?style=for-the-badge" alt="Docs"/>
+  </a>
+</div>
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="center">
