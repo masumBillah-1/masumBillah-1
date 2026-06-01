@@ -95,7 +95,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
 </li>
-<li>🔗 <strong><a href="https://smartlms-pro.vercel.app/">Live Demo</a></strong> | 📂 <strong><a href="https://github.com/ruhi-akhi/smartlms-pro">GitHub</a></strong></li>
+<li>🔗 <strong><a href="https://smartlms-pro.vercel.app/">Live Demo</a></strong> | 📂 <strong><a href="https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System">GitHub</a></strong></li>
 </ul>
 </td>
 </tr>
