@@ -125,12 +125,17 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 - 📱 **Multi-Platform** (Web, Desktop, PWA) | 🌍 **Multi-Institution** Support
 - ⚡ **Lightning Fast** (Turbopack 5x) | 100% **TypeScript** Coverage
 
+**🔑 Demo Credentials:**
+```
+ID: MDR-0001  |  Password: 132517ak
+```
+
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-FF9800?style=for-the-badge" alt="Live Demo"/>
+  <a href="https://madrasha-management-pro.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-FF6B6B?style=for-the-badge" alt="Live Demo"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/🔒_Private_Repo-Source_Code-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/📖_Documentation-View_Docs-0277BD?style=for-the-badge" alt="Docs"/>
