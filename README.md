@@ -86,10 +86,8 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img width="49%" alt="SmartLMS Pro Screenshot 1" src="https://github.com/user-attachments/assets/b5ed60b0-671f-4124-a51d-10bf1387b3c5" style="border-radius:10px;"/>
-  <img width="49%" alt="SmartLMS Pro Screenshot 2" src="https://github.com/user-attachments/assets/9551a65a-0a4c-4c31-aed8-930086ca1fce" style="border-radius:10px;"/>
-</div>
+<img width="1435" height="672" alt="ezgif-59be2ea4aa50d7fc" src="https://github.com/user-attachments/assets/cbe1caea-38d7-448d-bd51-735f662d7bc9" />
+
 
 <br/>
 
