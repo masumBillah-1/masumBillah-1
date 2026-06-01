@@ -77,10 +77,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 ## 🌟 Featured Projects
 
-### 🎓 SmartLMS-Pro
-<p align="center">
-  <strong>Full-Stack Learning Management System | Next.js • TypeScript • Socket.io • AI-Powered</strong>
-</p>
+### 🎓 SmartLMS-Pro | AI-Powered Learning Platform
 
 <div align="center">
   <a href="https://smartlms-pro.vercel.app/" target="_blank">
@@ -88,72 +85,21 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
   </a>
 </div>
 
-<br/>
+**Next.js • TypeScript • MongoDB • Socket.io • Gemini AI**
 
-#### 🎯 About The Project
-**SmartLMS Pro** is a cutting-edge Learning Management System that revolutionizes online education through **AI technology**, **real-time communication**, and **gamification**. Built with modern web technologies, it provides an engaging and effective learning experience for students, instructors, and administrators.
+Revolutionary Learning Management System with AI-powered quizzes, real-time chat, gamification, and complete course management tools.
 
-#### ✨ Key Features
-
-<table>
-<tr>
-<td width="50%">
-
-**🎓 For Students**
-- 🤖 AI-powered quiz generation & Q&A assistant
-- 📺 Interactive video learning with transcripts
-- 🏆 Gamification: Points, badges & leaderboards
-- � Real-time progress tracking
-- 📜 Auto-generated certificates
-- 💬 Live chat with instructors
-
-</td>
-<td width="50%">
-
-**👨‍🏫 For Instructors**
-- 🎬 Complete course creation tools
-- 📤 Media upload (Cloudinary integration)
-- 👥 Student management & analytics
-- 💰 Earnings tracking & payouts
-- ✅ Assignment grading system
-- � Direct messaging & announcements
-
-</td>
-</tr>
-</table>
-
-**🔐 Admin Panel:** Full platform control, user management, course approval, revenue dashboard, and analytics
-
-#### 🛠️ Technology Stack
+**✨ Features:**
+- 🤖 AI Quiz Generator | 👨‍🎓 Interactive Learning | 🏆 Gamification & Certificates
+- 📊 Real-time Analytics | 💬 Live Messaging | 💰 Payment Integration (Stripe)
+- 👥 Complete Course Tools | ✅ Automated Grading | 🔐 Admin Dashboard
 
 <div align="center">
-
-**Frontend**  
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**AI & Services**  
-![Google](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-<div align="center">
-  <br/>
   <a href="https://smartlms-pro.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/�_Live_Demo-Visit_Site-00C7B7?style=for-the-badge" alt="Live Demo"/>
+    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel" alt="Live Demo"/>
   </a>
   <a href="https://github.com/masumBillah-1/Ai-Powered-Learning-Management-System" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
   </a>
 </div>
 
