@@ -80,11 +80,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 ### 🎓 SmartLMS-Pro
 **Full-Stack | Next.js, TypeScript & Socket.io**
 
-<div align="center">
-<a href="https://smartlms-pro.vercel.app/" target="_blank">
-  <img width="100%" alt="smartlmspro-banner" src="https://github.com/user-attachments/assets/03c664fd-12cf-49a6-82f5-2c1d415b75c2" style="border-radius:10px;"/>
-</a>
-</div>
+
 
 <img width="1435" height="672" alt="ezgif-59be2ea4aa50d7fc" src="https://github.com/user-attachments/assets/cbe1caea-38d7-448d-bd51-735f662d7bc9" />
 
