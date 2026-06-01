@@ -115,7 +115,7 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 <img width="1024" height="442" alt="ezgif-7eadcd70c1a79780" src="https://github.com/user-attachments/assets/380405a1-24d9-41e2-b12d-1085f9ca22df" />
 
 
-**✨ Features:**
+**✨ Key Features:**
 
 | 🎓 Students | 👨‍🏫 Teachers | 🛡️ Admins | ⚙️ Core Modules |
 |----------|----------|--------|---------|
@@ -124,9 +124,15 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 | 🏆 Achievement Badges | 💳 Earnings | 💰 Finance Control | 📝 Attendance Tracking |
 | 📜 Certificates | ✅ Auto Grading | 🔍 Analytics | 📦 Inventory & Resources |
 
+### 🔐 **Advanced Authentication System**
+- 👆 **Fingerprint Login** - Biometric authentication for instant access
+- 📱 **QR Code Scan Login** - One-tap login by scanning QR code
+- 🔑 **Multi-Factor Auth** - WebAuthn + JWT + Password fallback
+- 🚫 **Zero-Friction Security** - Fast & secure without friction
+
 **Tech & Highlights:**
-- �️ **PostgreSQL (Neon)** + **Prisma ORM** | 🔌 **Offline-First** (IndexedDB Sync)
-- 🔐 **Bank-Level Security** (WebAuthn + JWT) | 📱 **Multi-Platform** (Web, Desktop, PWA)
+- 🗄️ **PostgreSQL (Neon)** + **Prisma ORM** | 🔌 **Offline-First** (IndexedDB Sync)
+- 🔐 **Biometric Security** (Fingerprint + QR) | 📱 **Multi-Platform** (Web, Desktop, PWA)
 - 🌍 **Multi-Institution** Support | ⚡ **Lightning Fast** (Turbopack 5x) | 100% **TypeScript**
 
 **🔑 Demo Credentials:**
