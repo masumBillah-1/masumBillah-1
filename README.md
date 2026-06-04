@@ -27,7 +27,13 @@ Hi! I'm **Masum Billah**, a passionate **Full Stack Developer** from Bangladesh.
 
 ---
 
-## 🛠 Technical Proficiency
+## � GitHub Contributions as Snake Game
+
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## �🛠 Technical Proficiency
 
 ### 🎯 Core Competencies
 
